@@ -1,0 +1,12 @@
+.cover {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+
+  svg {
+    margin: 50px auto;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+}
